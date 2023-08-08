@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  height: 100vh;
+  overflow: hidden;
+  background-image: url('https://www.nasa.gov/sites/default/files/thumbnails/image/niac_2021.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
